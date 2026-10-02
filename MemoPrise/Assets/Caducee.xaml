@@ -1,0 +1,28 @@
+<DrawingImage xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <DrawingImage.Drawing>
+    <DrawingGroup>
+      <GeometryDrawing Geometry="M 60,8 L 196,8 Q 248,8 248,60 L 248,196 Q 248,248 196,248 L 60,248 Q 8,248 8,196 L 8,60 Q 8,8 60,8 Z">
+        <GeometryDrawing.Brush>
+          <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#8CB7E6" Offset="0"/>
+            <GradientStop Color="#4E7FBF" Offset="0.65"/>
+            <GradientStop Color="#6889C6" Offset="1"/>
+          </LinearGradientBrush>
+        </GeometryDrawing.Brush>
+      </GeometryDrawing>
+      <GeometryDrawing Brush="#E6F1FF" Geometry="M 118,87 C 99,55 73,45 39,46 C 48,67 67,81 100,87 C 73,83 62,78 52,69 C 60,92 84,106 114,102 Z"/>
+      <GeometryDrawing Brush="#E6F1FF" Geometry="M 138,87 C 157,55 183,45 217,46 C 208,67 189,81 156,87 C 183,83 194,78 204,69 C 196,92 172,106 142,102 Z"/>
+      <GeometryDrawing Brush="#FFFFFF" Geometry="M 123,67 L 133,67 L 133,215 Q 128,226 123,215 Z"/>
+      <GeometryDrawing Brush="#FFFFFF" Geometry="M 138,57 A 10,10 0 1 1 118,57 A 10,10 0 1 1 138,57"/>
+      <GeometryDrawing Geometry="M 104,100 C 79,103 82,126 112,136 C 158,151 160,172 132,184 C 113,193 109,202 119,212">
+        <GeometryDrawing.Pen><Pen Brush="#FFFFFF" Thickness="10" StartLineCap="Round" EndLineCap="Round" LineJoin="Round"/></GeometryDrawing.Pen>
+      </GeometryDrawing>
+      <GeometryDrawing Geometry="M 152,100 C 177,103 174,126 144,136 C 98,151 96,172 124,184 C 143,193 147,202 137,212">
+        <GeometryDrawing.Pen><Pen Brush="#D7E9FF" Thickness="10" StartLineCap="Round" EndLineCap="Round" LineJoin="Round"/></GeometryDrawing.Pen>
+      </GeometryDrawing>
+      <GeometryDrawing Brush="#FFFFFF" Geometry="M 97,91 Q 114,89 114,101 Q 108,111 96,106 Q 87,100 97,91 Z"/>
+      <GeometryDrawing Brush="#D7E9FF" Geometry="M 159,91 Q 142,89 142,101 Q 148,111 160,106 Q 169,100 159,91 Z"/>
+      <GeometryDrawing Brush="#456EA8" Geometry="M 106,96 A 2,2 0 1 1 102,96 A 2,2 0 1 1 106,96 M 154,96 A 2,2 0 1 1 150,96 A 2,2 0 1 1 154,96"/>
+    </DrawingGroup>
+  </DrawingImage.Drawing>
+</DrawingImage>

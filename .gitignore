@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+distribution/MemoPrise/
+distribution/*.exe
+tests/package-check/
+outputs/
+
+# Local settings and private data
+.vs/
+*.user
+*.suo
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+.env
+.env.*
