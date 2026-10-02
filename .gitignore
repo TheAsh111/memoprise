@@ -22,7 +22,6 @@ outputs/
 /BuildIcon.ps1
 /Nettoyer-anciennes-versions.cmd
 /Nettoyer-anciennes-versions.ps1
-/README.md
 /plan.md
 /tests/
 /distribution/*
