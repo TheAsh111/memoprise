@@ -1,5 +1,13 @@
 # MémoPrise — Windows
 
+MémoPrise est une application gratuite pour Windows 10 et 11 qui aide à organiser les prises de médicaments. Elle propose des rappels aux heures prévues, un suivi des prises validées et un calendrier pour consulter l’historique. Les horaires et les quantités peuvent rester fixes ou évoluer par périodes.
+
+Les données restent sur votre ordinateur : aucun compte ni connexion Internet ne sont nécessaires pour utiliser le programme.
+
+**[Télécharger l’installateur MémoPrise 1.4.1](https://github.com/TheAsh111/memoprise/raw/refs/heads/main/distribution/Installer-MemoPrise.exe)**
+
+Après le téléchargement, lancez `Installer-MemoPrise.exe`. L’application ne nécessite ni installation séparée de .NET ni droits administrateur. L’exécutable n’est pas signé numériquement.
+
 Application C# / WPF (.NET 8), données locales SQLite. Windows 10/11 x64.
 
 ## Installer
