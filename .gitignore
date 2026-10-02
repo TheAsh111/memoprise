@@ -16,3 +16,14 @@ outputs/
 *.sqlite3
 .env
 .env.*
+
+# Local development and packaging files
+/Build.ps1
+/BuildIcon.ps1
+/Nettoyer-anciennes-versions.cmd
+/Nettoyer-anciennes-versions.ps1
+/README.md
+/plan.md
+/tests/
+/distribution/*
+!/distribution/Installer-MemoPrise.exe
